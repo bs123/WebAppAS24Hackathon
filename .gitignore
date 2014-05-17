@@ -1,0 +1,7 @@
+	${activemq.base}/
+	.classpath
+.project
+	.settings/
+	ReadMe.txt
+target/
+
